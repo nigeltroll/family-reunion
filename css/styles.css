@@ -1,0 +1,17 @@
+.burger{
+    
+
+float: right;
+
+}
+
+.burger-lines{
+    
+height: 5px;
+width: 35px;
+background-color: blue;
+margin: 6px 0px;
+
+
+
+}
